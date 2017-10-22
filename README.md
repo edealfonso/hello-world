@@ -1,7 +1,7 @@
 # hello-world
-A place where I store ideas, resources, or even share and discuss things with others.
 
 I am an Engineer, Musician and I love programming
+I was born on 1984 and live in Barcelona
 
 I did my own webpages as a kid, 
 then won a priter in a teen contest in C++,
